@@ -5,6 +5,8 @@
 Blocking style bir clocka bağlı olunmadığında, kodun aynı yazılım dillerindeki gibi yukarıdan aşağı ve birbirini bekleyerek çalışması için kullanılır. (=)
 Non Blockingte ise bir clocka bağlıyızdır ve işin içinde sinyal vardır. clk geldiğinde tüm değerler asılı kalır ve clk bitişinde paralel olarak atanır. (<=)
 
+--- 
+
 ### **Donanımda Bölme İşlemi ve Kaydırma Operatörü**
 
 <span style="color: #E06C75;">Donanımda bölme operatörü kullanmak adeta bir cinayettir.</span> Benim gelen sinyalleri en az gecikmeyle işlemem gerekirken bu bana büyük bir gecikme çıkarır. 
