@@ -4,7 +4,7 @@
 
 (=) Blocking style bir clocka bağlı olunmadığında, kodun aynı yazılım dillerindeki gibi yukarıdan aşağı ve birbirini bekleyerek çalışması için kullanılır.
 
-(<=) Non Blockingte ise bir clocka bağlıyızdır ve işin içinde sinyal vardır. clk geldiğinde tüm değerler asılı kalır ve clk bitişinde paralel olarak atanır.
+(<=) Non Blockingte ise bir clocka bağlıyız ve işin içinde sinyal vardır. clk geldiğinde tüm değerler asılı kalır ve clk bitişinde paralel olarak atanır.
 
 --- 
 
