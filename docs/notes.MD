@@ -2,8 +2,9 @@
 
 ### **Blocking vs Non Blocking Assignment**
 
-Blocking style bir clocka bağlı olunmadığında, kodun aynı yazılım dillerindeki gibi yukarıdan aşağı ve birbirini bekleyerek çalışması için kullanılır. (=)
-Non Blockingte ise bir clocka bağlıyızdır ve işin içinde sinyal vardır. clk geldiğinde tüm değerler asılı kalır ve clk bitişinde paralel olarak atanır. (<=)
+(=) Blocking style bir clocka bağlı olunmadığında, kodun aynı yazılım dillerindeki gibi yukarıdan aşağı ve birbirini bekleyerek çalışması için kullanılır.
+
+(<=) Non Blockingte ise bir clocka bağlıyızdır ve işin içinde sinyal vardır. clk geldiğinde tüm değerler asılı kalır ve clk bitişinde paralel olarak atanır.
 
 --- 
 
